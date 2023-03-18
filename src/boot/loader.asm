@@ -81,7 +81,7 @@ print:
     ret
 
 loading:
-    db "Loading Onix...", 10, 13, 0; \n\r
+    db "Loading TAOS...", 10, 13, 0; \n\r
 detecting:
     db "Detecting Memory Success...", 10, 13, 0; \n\r
 

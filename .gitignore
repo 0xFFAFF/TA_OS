@@ -1,2 +1,17 @@
 build/*
 build
+
+*.o
+*.out
+*.bin
+*.map
+*.master
+*.ini
+*.zst
+*.gz
+*.vmdk
+
+bochs/src
+bochs/pkg
+test/*
+test
